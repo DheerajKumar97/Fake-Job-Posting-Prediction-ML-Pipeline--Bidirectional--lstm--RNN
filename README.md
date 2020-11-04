@@ -4,7 +4,7 @@
 
 # Original Non Compressed HDF5 Model File LINK
 ## Model file can't upload beacuse of larger in size so, if you want original file download from below Link
-https://drive.google.com/drive/folders/1-vTSZrQ_Jsn1qv404FGjkdoZtWgxaZrP?usp=sharing
+https://drive.google.com/drive/folders/1mK0lgF6jwdcB0ehF3A3aYdfpBOlIJbmR?usp=sharing
 
 # Table Of Contents
 - [PROJECT GOAL](#PROJECT-GOAL)
