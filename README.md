@@ -51,9 +51,7 @@ https://drive.google.com/drive/folders/1-vTSZrQ_Jsn1qv404FGjkdoZtWgxaZrP?usp=sha
 7- End Pipeline to Call Moudules
 
 
-##  Details of Variables
 
-![Alt Text](https://github.com/DheerajKumar97/Drug-review-sentiment-Analysis--Flask-Deployment-Heroku/blob/master/DRA%20Snapshots/variable%20details.jpg)
 
 # Technologies Used
 
