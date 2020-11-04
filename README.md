@@ -18,13 +18,13 @@ https://drive.google.com/drive/folders/1-vTSZrQ_Jsn1qv404FGjkdoZtWgxaZrP?usp=sha
 
 # PROJECT GOAL
 
-### This project is designed to predict the DRUG REVIEW SENTIMENT using Natural Language Processing with Python, FLASK, HTML, SQL.
+### This project is designed to predict the Fake Job Posting in Socal Medias using Natural Language Processing with Python, FLASK, HTML, SQL.
 
 ### A highly comprehensive analysis with all data cleaning, exploration, visualization, vectorization all steps are explained in detail.
 
 # Project Motivation
 
-**In today's world Data Science is slowing booming in health care and in future Data Science in health care will be in top noch and they are some issues people facing by consumming expired drugs which is not working for particular disease and creating other problem for patients, to avoid this decided to develop and sentiment analysis model to review the sentiments of drugs that would help people to make desicion about quality of drug**
+**In today's world Tecnologies are increasing and creating revolutionary change in scientific world, due to that people are interested in learning new technologies so that requirements of job becoming less and graduates are more so institutions are growing more by advertising that they can bridge gap between industries and Graduates, in splite of this some of them are posting FAKE JOB POST to prevent that, i have decided to do this project**
 
 # Requirements Installation
 
@@ -36,21 +36,20 @@ https://drive.google.com/drive/folders/1-vTSZrQ_Jsn1qv404FGjkdoZtWgxaZrP?usp=sha
 
 # The Python file has following sections:
 
-1- Data Cleaning
+1- Data loading
 
-2- Bag of Words Model
+2- Text Preproccesing
 
-3- Count vectorizer Vectorization
+3- Train test split
 
-4- Naive Bayes Modeling
+4- Keras Tokenization
 
-5- tfidf vectorizer Vectorization
+5- Glove Embedding
 
-6- Logistic Modeling
+6- Bidirectional LSTM  RNN Modeling
 
-7- Keras Tokenization and pad sequence
+7- End Pipeline to Call Moudules
 
-8- RNN LSTM Modeling
 
 ##  Details of Variables
 
